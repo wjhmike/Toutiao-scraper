@@ -1,3 +1,6 @@
+#Describtion A mini scraper to scrape toutiao.com
+#Author: Junhan Wang
+#Date: April 17th, 2019
 import time
 from splinter import Browser
 import csv
