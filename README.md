@@ -6,9 +6,16 @@ To run this project:
 ```
 $ pip install splinter  
 $ brew cask install chromedriver
+$ git clone git://github.com/cobrateam/splinter.git
+$ cd splinter
+$ python setup.py install
+```
+Running setup.py will automatically setup the development environment for you.  
+
+To run the program
+```
 $ git clone https://github.com/wjhmike/Toutiao-scraper.git  
 $ cd Toutiao-scraper  
-$ python setup.py  
 $ python toutiao_scraper.py
 ```
-Running setup.py will automatically setup the development environment for you.
+
