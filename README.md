@@ -2,7 +2,7 @@
 
 **A mini scraper to scrape toutiao.com**  
 This project uses splinter API to scraper a blogger's blogs from toutiao.com. The parsing data will be written into a csv file.  
-environment preparation:  
+Environment preparation:  
 ```
 $ pip install splinter  
 $ brew cask install chromedriver
